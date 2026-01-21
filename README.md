@@ -49,20 +49,7 @@
 
 ## 📂 Projects
 
-🔹 **Cyber Security Projects**
-- Network Scanning & Enumeration using Nmap
-- Packet Analysis using Wireshark
-- Basic Penetration Testing Labs
-- Vulnerability Assessment Reports
 
-🔹 **Networking Projects**
-- Network Design & Configuration
-- Subnetting & Routing Labs
-- Cisco Packet Tracer Simulations
-
-> ⚠️ More projects will be added soon…
-
----
 
 ## 📈 GitHub Stats
 
@@ -72,8 +59,8 @@
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
-- 📧 Email: *(Optional)*
+- 💼 LinkedIn: mostafa elamrosy
+- 📧 Email: elamrosymostafa0@gmail.com
 - 🌐 GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
 ---
